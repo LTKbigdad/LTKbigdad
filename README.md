@@ -15,4 +15,4 @@
 ### Hi! I'm Douglas Braz Batista. 👋
 
 - 🌱 I’m currently learning JavaScript
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronouns: Him / his
