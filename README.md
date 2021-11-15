@@ -1,13 +1,13 @@
 ### Hi! I'm Douglas Braz Batista. 👋
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning HTML, CSS e JavaScript
 - 😄 Pronouns: Him / his
   
 ---------------------------------------------------------
 
 ### Olá! Eu sou Douglas Braz Batista. 👋
 
-- 🌱 Atualmente estou aprendendo JavaScript
+- 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript
 - 😄 Pronomes: Ele/Dele
 
 <div style="display: inline_block"><br>
