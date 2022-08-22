@@ -1,7 +1,7 @@
 ### Hi! I'm Douglas Braz Batista. 👋
  
 - 📙 I am a student at Kenzie Academy Brasil in the front-end developer course
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Typescript
 - 😄 Pronouns: Him / his
   
 ---------------------------------------------------------
@@ -9,7 +9,7 @@
 ### Olá! Eu sou Douglas Braz Batista. 👋
 
 - 📙 Sou aluno da Kenzie Academy Brasil no curso de desenvolvedor front-end
-- 🌱 Atualmente estou aprendendo ReactJS
+- 🌱 Atualmente estou aprendendo Typescript
 - 😄 Pronomes: Ele/Dele
 
 <div style="display: inline_block"><br>
