@@ -1,7 +1,7 @@
 ### Hi! I'm Douglas Braz Batista. 👋
  
 - 📙 I was a student at Kenzie Academy Brasil in the front-end developer course
-- 🌱 I’m currently learning Typescript
+- 🌱 I have knowledge in technologies such as Javascript (ES6), HTML5, CSS3, React, Typescript, Redux, ContextAPI and many other libraries focused on the front-end
 - 😄 Pronouns: Him / his
   
 ---------------------------------------------------------
@@ -9,7 +9,7 @@
 ### Olá! Eu sou Douglas Braz Batista. 👋
 
 - 📙 Fui aluno da Kenzie Academy Brasil no curso de desenvolvedor front-end
-- 🌱 Atualmente estou aprendendo Typescript
+- 🌱 Possuo conhecimentos em tecnologias como Javascript (ES6), HTML5, CSS3, React, Typescript, Redux, ContextAPI e muitas outras bibliotecas focadas no front-end
 - 😄 Pronomes: Ele/Dele
 
 <div style="display: inline_block"><br>
