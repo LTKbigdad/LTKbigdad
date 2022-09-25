@@ -3,7 +3,7 @@
 # I'm a front-end developer.
  
 - 📙 I was a student at Kenzie Academy Brasil in the front-end developer course
-- 🌱 I have knowledge in technologies such as Javascript (ES6), HTML5, CSS3, React, Typescript, Redux, ContextAPI and many other libraries focused on the front-end
+- 🌱 I have knowledge in technologies such as Javascript (ES6), HTML5, CSS3, React, Typescript, Redux, ContextAPI and many other libraries focused on the front-end, I'm used to git, github, gitlab and agile methodologies.
 - 😄 Pronouns: Him / his
   
 ---------------------------------------------------------
@@ -13,7 +13,7 @@
 # Eu sou desenvolvedor front-end.
 
 - 📙 Fui aluno da Kenzie Academy Brasil no curso de desenvolvedor front-end
-- 🌱 Possuo conhecimentos em tecnologias como Javascript (ES6), HTML5, CSS3, React, Typescript, Redux, ContextAPI e muitas outras bibliotecas focadas no front-end
+- 🌱 Possuo conhecimentos em tecnologias como Javascript (ES6), HTML5, CSS3, React, Typescript, Redux, ContextAPI e muitas outras bibliotecas focadas no front-end, Estou acostumado com git, github, gitlab e metodologias ágeis.
 - 😄 Pronomes: Ele/Dele
 
 <div style="display: inline_block"><br>
