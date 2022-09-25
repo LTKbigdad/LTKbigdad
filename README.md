@@ -1,4 +1,6 @@
 ### Hi! I'm Douglas Braz Batista. 👋
+
+# I'm a front end developer.
  
 - 📙 I was a student at Kenzie Academy Brasil in the front-end developer course
 - 🌱 I have knowledge in technologies such as Javascript (ES6), HTML5, CSS3, React, Typescript, Redux, ContextAPI and many other libraries focused on the front-end
@@ -7,6 +9,8 @@
 ---------------------------------------------------------
 
 ### Olá! Eu sou Douglas Braz Batista. 👋
+
+# Eu sou desenvolvedor front-end.
 
 - 📙 Fui aluno da Kenzie Academy Brasil no curso de desenvolvedor front-end
 - 🌱 Possuo conhecimentos em tecnologias como Javascript (ES6), HTML5, CSS3, React, Typescript, Redux, ContextAPI e muitas outras bibliotecas focadas no front-end
